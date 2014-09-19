@@ -6,7 +6,7 @@ ul.a {list-style-type: disc;}
 <title>DWA 15 - P1</title>
 </head>
 <h1>Daniel Little</h1>
-<img src= "/images/selfie.jpg"/>
+<img src= "images/selfie.jpg"/>
 <a href="../p2">Project 2</a>
 <a href="../p3">Project 3</a>
 <a href="../p4">Project 4</a>
